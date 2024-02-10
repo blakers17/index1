@@ -1,0 +1,23 @@
+h2 {
+    text-align: center;
+}
+h2 {
+    color: blue
+}
+h3 {
+    color: royalblue
+}
+h4, h5 {
+    color: navy
+}
+img {
+    max-width: 500px;
+    max-height: 500px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px ;
+}
